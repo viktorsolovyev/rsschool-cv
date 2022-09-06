@@ -1,4 +1,4 @@
-# Solovyev Viktor
+# Viktor Solovyev
 
 ## Frontend Developer
 
@@ -6,3 +6,12 @@
 
 *  **Location:** Moscow
 *  **Phone:** +7 (123) 456 78 90
+
+### Skills
+* HTML5, CSS3
+* JavaScript Basics
+* Git, GitHub
+
+### Language
+
+* English - A2
